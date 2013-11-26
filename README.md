@@ -13,3 +13,5 @@ Given a hash of: { 3 => "Fizz", 5 => "Buzz", 7 => "Sivv", 11 => "Bahhh" }
 
 'FizzBuzz Extended' will return "Bahhh" for 33, while 'FizzBuzz Extended String Concatenation' will return "FizzBahhh"
 
+Both will return "FizzBuzzSivv" for 105. 
+
